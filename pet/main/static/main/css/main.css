@@ -1,0 +1,129 @@
+body {
+    background-color: #2c2c2c;
+}
+
+aside {
+    float: left;
+    background-color: #181818;
+    padding: 2.5%;
+    width: 20%;
+    height: 120vh;
+    color: #fff;
+    border-right: 5px solid #4d4d4d;
+}
+
+.logo {
+    width: 80px;
+    float: left;
+}
+
+.logo_title {
+    font-size: 45px;
+    margin-left: 10px;
+    font-weight: bold;
+    font-style: none;
+    color: #fff;
+    text-decoration: none;
+    position: relative;
+    top: 10px;
+}
+
+h3 {
+    margin-top: 50px;
+    font-size: 28px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    color: #fff;
+    display: block;
+    margin-top: 20px;
+    transition: all 0.6s ease;
+}
+
+.list:hover {
+    text-decoration: none;
+}
+
+li:hover {
+    color: #aa5413;
+    text-decoration: none;
+    transform: scale(1.05);
+}
+
+.features {
+    float: left;
+    color: #fff;
+    margin-top: 100px;
+    text-align: center;
+    width: 75%;
+}
+
+.title_page {
+    font-size: 50px;
+}
+
+.title_text {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+button {
+    margin-top: 30px;
+}
+
+.logo {
+    border-radius: 25%;
+}
+
+.about_core {
+    float: left;
+    color: #fff;
+    margin-top: 100px;
+    text-align: center;
+    width: 75%;
+}
+.link_title:hover {
+    text-decoration: none;
+}
+
+.btn {
+    transition: all 0.6s ease;
+}
+
+.btn-danger:hover {
+    box-shadow: 0px 0px 15px rgb(131, 12, 12);
+}
+.btn-info:hover {
+    box-shadow: 0px 0px 5px rgb(2, 205, 250);
+}
+
+.btn-warning:hover {
+    box-shadow: 0px 0px 15px rgb(192, 174, 12);
+}
+
+.title_about {
+    font-size: 50px;
+}
+
+.about_text {
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+form {
+    margin-left: 32%;
+    width: 500px;
+    margin-top: 50px;
+}
+
+.btn-success {
+    margin: 20px 0px 50px 0px;
+}
+
+.cont {
+    font-size: 18px;
+}
